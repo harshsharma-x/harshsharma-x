@@ -1,5 +1,5 @@
 # 💫 About Me:
-Here's a 2-line summary for your GitHub profile as a Frontend Developer:<br>Passionate Frontend Developer crafting responsive, user-centric web experiences.<br>Proficient in modern JavaScript frameworks, with a keen eye for design and performance optimization.
+<br>Passionate Frontend Developer crafting responsive, user-centric web experiences.<br>Proficient in modern JavaScript frameworks, with a keen eye for design and performance optimization.
 
 
 ## 🌐 Socials:
