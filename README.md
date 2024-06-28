@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Passionate Frontend Developer crafting responsive, user-centric web experiences.<br>Proficient in modern JavaScript frameworks, with a keen eye for design and performance optimization.
+Passionate Frontend Developer crafting responsive, user-centric web experiences.<br>Proficient in modern JavaScript frameworks, with a keen eye for design and performance optimization.
 
 
 ## 🌐 Socials:
