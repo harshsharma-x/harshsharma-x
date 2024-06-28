@@ -1,4 +1,4 @@
-# 💫 About Me:
+Harsh Sharma
 Passionate Frontend Developer crafting responsive, user-centric web experiences.<br>Proficient in modern JavaScript frameworks, with a keen eye for design and performance optimization.
 
 
@@ -8,10 +8,12 @@ Passionate Frontend Developer crafting responsive, user-centric web experiences.
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harshsharma-x&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=harshsharma-x&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsharma-x&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+=## Projects I Have Worked On
+
+### Clinic Management Software
+[![Clinic Management Software](https://img.shields.io/badge/Clinic_Management_Software-Explore-blue)](https://manipal-client.vercel.app/)
+- **[Live Demo](https://manipal-client.vercel.app/)** | **[GitHub Repo](https://github.com/Vedic-Technologies/manipal-client)**
+
 
 
 ### 🔝 Top Contributed Repo
